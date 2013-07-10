@@ -92,6 +92,9 @@ As you can see on this screenshot, the package name can then be set as a build p
 
 {% include comments.html %}
 
+## [kizzx2](http://kizzx2.com)
+Thanks! The resource identifier trick was neat!
+
 <!--
 
 To comment, copy and paste the following block
